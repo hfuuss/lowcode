@@ -9,3 +9,5 @@ $ git clone https://github.com/hfuuss/lowcode.git
 $ cd front && npm i && npm start // 启动前端
 $ cd server && npm i && npm run dev // 启动后端
 ```
+
+![image](https://user-images.githubusercontent.com/14094844/102710420-190e9300-42ed-11eb-9ddc-306600e836a5.png)
